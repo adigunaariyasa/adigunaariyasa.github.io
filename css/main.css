@@ -1,0 +1,14 @@
+header {
+    height: 35vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../img/oppo\ logo.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+header#home {
+    height: 50vh;
+}
